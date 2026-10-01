@@ -1,0 +1,296 @@
+[
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "The rainbowR conference will run over [number] days, on [dates to be confirmed]. The full schedule is shown below, with links to talk descriptions once the programme is confirmed.\nBy default, times are shown in UTC. Use the sections below to view the schedule in other time zones.\n\nsummary {\n  font-weight: bold;\n  margin-bottom: 0.5em;\n}\n\n\n\nUTC\n\n\nDay 1: [date to be confirmed]\n\n\n\nTime\nEvent\nSpeaker\n\n\n\n\nTo be confirmed\nEvent title\nSpeaker name\n\n\n\n\n\nDay 2: [date to be confirmed]\n\n\n\nTime\nEvent\nSpeaker\n\n\n\n\nTo be confirmed\nEvent title\nSpeaker name\n\n\n\n\n\n\nAmerica/New_York\n\nAdd the converted schedule here when times are confirmed.\n\n\n\nEurope/London\n\nAdd the converted schedule here when times are confirmed."
+  },
+  {
+    "objectID": "abstracts.html",
+    "href": "abstracts.html",
+    "title": "Abstracts",
+    "section": "",
+    "text": "Details of the call for abstracts will be published here when they are available."
+  },
+  {
+    "objectID": "after.html#everyone",
+    "href": "after.html#everyone",
+    "title": "After",
+    "section": "Everyone",
+    "text": "Everyone\n\nKeep participating in the conference Discord server.\nFollow and engage with rainbowR on social media.\nTell others about us.\nVisit https://rainbowr.org to find out more.\nAdd the conference playlist or recording links here.\nRevisit resources on the talks and workshops pages."
+  },
+  {
+    "objectID": "after.html#lgbtq-folks",
+    "href": "after.html#lgbtq-folks",
+    "title": "After",
+    "section": "LGBTQ+ folks",
+    "text": "LGBTQ+ folks\n\nJoin rainbowR to receive an invitation to Slack and join the newsletter.\nSign up for a rainbowR buddy.\nCome to our meetups."
+  },
+  {
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "Workshops",
+    "section": "",
+    "text": "Workshops will take place on [date to be confirmed], across [number] parallel sessions. Add the confirmed times here and link to the schedule page for time-zone information.\nSession A: [time to be confirmed]\nSession B: [time to be confirmed]"
+  },
+  {
+    "objectID": "workshops.html#workshop-slug",
+    "href": "workshops.html#workshop-slug",
+    "title": "Workshops",
+    "section": "Workshop title",
+    "text": "Workshop title\nDescribe the workshop, its intended audience, and what participants will learn. Add any prerequisites, computer set-up instructions, or registration information here.\n\nInstructor:\n\n\nInstructor name"
+  },
+  {
+    "objectID": "workshops.html#another-workshop-slug",
+    "href": "workshops.html#another-workshop-slug",
+    "title": "Workshops",
+    "section": "Another workshop title",
+    "text": "Another workshop title\nCopy the workshop pattern above for each additional workshop. Use columns when there is more than one instructor."
+  },
+  {
+    "objectID": "workshops.html#third-workshop-slug",
+    "href": "workshops.html#third-workshop-slug",
+    "title": "Workshops",
+    "section": "Workshop title",
+    "text": "Workshop title\nAdd the final workshop details here."
+  },
+  {
+    "objectID": "speakers.html",
+    "href": "speakers.html",
+    "title": "Speakers",
+    "section": "",
+    "text": "Arranged alphabetically by first name, within each section\nSpeaker details will appear here once the programme is confirmed."
+  },
+  {
+    "objectID": "speakers.html#keynote-speakers",
+    "href": "speakers.html#keynote-speakers",
+    "title": "Speakers",
+    "section": "Keynote speakers",
+    "text": "Keynote speakers\n\nSpeaker name\nTalk title\n\nSpeaker Name (pronouns) is a role at Organisation. Add a short biography that explains their work, interests, and connection to the conference."
+  },
+  {
+    "objectID": "speakers.html#talk-speakers",
+    "href": "speakers.html#talk-speakers",
+    "title": "Speakers",
+    "section": "Talk speakers",
+    "text": "Talk speakers\n\nSpeaker name\nAnother talk title\n\nAdd a short biography here. Copy this entire section for each new speaker, then update the heading, anchor, talk link, image, biography, and any relevant social links."
+  },
+  {
+    "objectID": "socials.html",
+    "href": "socials.html",
+    "title": "Socials",
+    "section": "",
+    "text": "Connecting LGBTQ+ R users is a key aim of the conference. As in 2026, we’ll be running a conference buddies scheme, and have a Discord server. Further social events will be added as plans develop."
+  },
+  {
+    "objectID": "socials.html#buddies",
+    "href": "socials.html#buddies",
+    "title": "Socials",
+    "section": "Buddies",
+    "text": "Buddies\nThe buddies scheme is a flagship rainbowR programme which randomly pairs members of the community, providing an opportunity to foster connections and encouraging conversations between people who may not meet otherwise.\nWe’re running a special conference edition! Folks who register for the conference will have the opportunity, during the registration process, to request a conference buddy. During check-out, you’ll be asked a couple of questions about yourself and your interests. A couple of days before the conference, we’ll randomly assign you a buddy and send an email to each pair, making the introduction, populated with the information you provided in your answers to help get the conversation started.\nWe encourage you to connect with your buddy in advance of the conference. And, during the conference itself, you’ll then know (at least) one person attending, who you can be in touch with in the conference Discord and Zoom chats.\nSee rainbowr.org/buddies for more details on how the scheme works (and how it’s implemented in R!)."
+  },
+  {
+    "objectID": "socials.html#discord",
+    "href": "socials.html#discord",
+    "title": "Socials",
+    "section": "Discord",
+    "text": "Discord\nWe’ll have a Discord server for the conference, for further chat and socialising, and getting in touch with the organisers. Everyone registered for the conference will be invited to join, probably a couple of days before the conference starts."
+  },
+  {
+    "objectID": "CoC.html",
+    "href": "CoC.html",
+    "title": "Code of Conduct (CoC)",
+    "section": "",
+    "text": "Last modified: 2025-12-15\nParticipation in rainbowR activities, including membership, online engagement, and event attendance, indicates your agreement to follow this Code of Conduct and uphold our community standards. By taking part in our spaces, you commit to treating others with respect, contributing to a welcoming environment, and refraining from inappropriate solicitation or harassment."
+  },
+  {
+    "objectID": "CoC.html#our-pledge",
+    "href": "CoC.html#our-pledge",
+    "title": "Code of Conduct (CoC)",
+    "section": "Our Pledge",
+    "text": "Our Pledge\nWe as members, contributors, and leaders pledge to make participation in rainbowR a harassment-free experience for everyone, regardless of sexual identity and orientation, sex characteristics, gender identity and expression, age, body size, visible or invisible disability, ethnicity, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, or religion.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community."
+  },
+  {
+    "objectID": "CoC.html#our-standards",
+    "href": "CoC.html#our-standards",
+    "title": "Code of Conduct (CoC)",
+    "section": "Our Standards",
+    "text": "Our Standards\nExamples of behavior that contributes to a positive environment for our community include:\n\nDemonstrating empathy and kindness toward other people\nBeing respectful of differing opinions, viewpoints, and experiences\nGiving and gracefully accepting constructive feedback\nAccepting responsibility and apologizing to those affected by our mistakes, and learning from the experience\nFocusing on what is best not just for us as individuals, but for the overall community\n\nExamples of unacceptable behavior include:\n\nThe use of sexualized language or imagery, and sexual attention or advances of any kind\nTrolling, insulting or derogatory comments, unwelcome profanity or vulgarity, and personal or political attacks\nPublic or private harassment\nOffensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion\nUnwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment\nDeliberate misgendering or use of ‘dead’ or rejected names\nPublishing others’ private information, such as a physical or email address, without their explicit permission\nPublication of non-harassing private communication\nThreats of violence\nIncitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm\nDeliberate intimidation\nStalking or following\nHarassing photography or recording, including logging online activity for harassment purposes\nDeliberate “outing” of any aspect of a person’s identity (including membership of rainbowR) without their consent except as necessary to protect vulnerable people from intentional abuse\nRetaliation, such as punishing, intimidating, or excluding someone for reporting a concern or participating in an investigation\nUsing religious or moral beliefs as a justification or excuse for behaviour that does not comply with this Code of Conduct\nOther conduct which could reasonably be considered inappropriate in a professional setting\n\nrainbowR prioritizes marginalized people’s safety over privileged people’s comfort. The CoC committee will not act on complaints regarding:\n\n‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ ‘reverse homophobia’ and ‘cisphobia’\nReasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”\nCommunicating in a ‘tone’ you don’t find congenial\nCriticizing racist, sexist, homophobic, cissexist, or otherwise oppressive behavior or assumptions"
+  },
+  {
+    "objectID": "CoC.html#enforcement-responsibilities",
+    "href": "CoC.html#enforcement-responsibilities",
+    "title": "Code of Conduct (CoC)",
+    "section": "Enforcement Responsibilities",
+    "text": "Enforcement Responsibilities\nThe CoC committee is responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.\nThe CoC committee has the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.\nThe CoC committee has the right to remove a member of any rainbowR committee from their committee role, if they consider it an appropriate consequence for any action they deem in violation of this Code of Conduct by that person."
+  },
+  {
+    "objectID": "CoC.html#scope",
+    "href": "CoC.html#scope",
+    "title": "Code of Conduct (CoC)",
+    "section": "Scope",
+    "text": "Scope\nThis Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via a rainbowR social media account, or acting as an appointed representative at an online or offline event.\nBehavior that occurs outside rainbowR spaces may be considered when it involves a rainbowR member and creates a risk of harm within the rainbowR community. The Code of Conduct committee will use discretion and will only act on external behavior when it directly impacts the safety or well-being of the community."
+  },
+  {
+    "objectID": "CoC.html#reporting",
+    "href": "CoC.html#reporting",
+    "title": "Code of Conduct (CoC)",
+    "section": "Reporting",
+    "text": "Reporting\nInstances of abusive, harassing, or otherwise unacceptable behavior may be reported to the Code of Conduct committee, who are responsible for review and enforcement. This can be done by completing the rainbowR Code of Conduct Incident Report Form (this can be anonymous) or by email to coc@rainbowr.org.\nMembers of the Code of Conduct committee are listed at https://rainbowr.org/committees#code-of-conduct-committee.\nIf a report involves a member of the CoC committee, or there is any other reason why the person submitting the report does not want a member of this committee to see it, the report can instead be sent to our external, independent advisors, the Fellowship team at the Software Sustainability Institute (SSI). They can be reached, via the primary point of contact, at oscar.seip@manchester.ac.uk, and they will review and handle the report according to this Code of Conduct. Current members of the SSI Fellowship team are listed on the Fellowship page of the SSI website, under “Meet our Team, Fellow, and Explore the Impact of the Programme” -&gt; “Our Team”.\nAll Code of Conduct committee members, and our advisors, are obligated to respect the privacy and security of the reporter of any incident."
+  },
+  {
+    "objectID": "CoC.html#timelineprocessappeal",
+    "href": "CoC.html#timelineprocessappeal",
+    "title": "Code of Conduct (CoC)",
+    "section": "Timeline/process/appeal",
+    "text": "Timeline/process/appeal\n\nReport Submitted: A concern is sent to the Code of Conduct committee.\nInitial Review (within a week of receiving a report): The committee determines whether the report falls under the Code of Conduct and whether more information is needed.\nInformation Gathering: The committee collects any additional details needed to understand the situation.\nDecision (within two weeks of information gathering completion): The committee decides whether a violation occurred and what actions, if any, are appropriate.\nNotification (at time of decision): The committee informs the reporter (when possible) and the person involved of the outcome.\nAppeal: The person found in violation may request an appeal, which will be reviewed by committee members or advisors not involved in the original decision.\nFollow-up: If actions are required, the committee monitors for compliance and addresses any further concerns."
+  },
+  {
+    "objectID": "CoC.html#enforcement-guidelines",
+    "href": "CoC.html#enforcement-guidelines",
+    "title": "Code of Conduct (CoC)",
+    "section": "Enforcement Guidelines",
+    "text": "Enforcement Guidelines\nCode of Conduct committee members will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:\n\n1. Correction\nCommunity Impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.\nConsequence: A private, written warning from the Code of Conduct committee, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.\n\n\n2. Warning\nCommunity Impact: A violation through a single incident or series of actions.\nConsequence: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.\n\n\n3. Temporary Ban\nCommunity Impact: A serious violation of community standards, including sustained inappropriate behavior.\nConsequence: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.\n\n\n4. Permanent Ban\nCommunity Impact: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.\nConsequence: A permanent ban from any sort of public interaction within the community."
+  },
+  {
+    "objectID": "CoC.html#attribution",
+    "href": "CoC.html#attribution",
+    "title": "Code of Conduct (CoC)",
+    "section": "Attribution",
+    "text": "Attribution\nThis Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html and the R-Ladies Code of Conduct.\nCommunity Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.\nFor answers to common questions about the Contributor Covenant, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations."
+  },
+  {
+    "objectID": "registrations.html",
+    "href": "registrations.html",
+    "title": "Registrations",
+    "section": "",
+    "text": "Registration details will be published here when they are available."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Note\n\n\n\nThe programme is being assembled. The examples below preserve the display pattern used for previous rainbowR conferences; replace them with confirmed content when ready."
+  },
+  {
+    "objectID": "talks.html#keynotes",
+    "href": "talks.html#keynotes",
+    "title": "Talks",
+    "section": "Keynotes",
+    "text": "Keynotes\n\nTalk title\nSpeaker name\n\nAbstract:\nAdd the keynote abstract here."
+  },
+  {
+    "objectID": "talks.html#regular-talks",
+    "href": "talks.html#regular-talks",
+    "title": "Talks",
+    "section": "Regular talks",
+    "text": "Regular talks\nRegular talks will run in sessions. Use the sections below to share abstracts and, after the conference, recordings, slides, and other resources.\n\nSession I\n\n\n\n\n\n\nNoteTalk titleSpeaker name\n\n\n\n\n\nAbstract:\nAdd the talk abstract here. Once the event has taken place, add any recording, slides, repository, preprint, or other resources as appropriate.\n\n\n\n\n\n\nSession II\nAdd confirmed talks here using the same callout pattern. Rotate the callout type (note, tip, caution, warning, important) to retain the colourful programme styling."
+  },
+  {
+    "objectID": "talks.html#lightning-talks",
+    "href": "talks.html#lightning-talks",
+    "title": "Talks",
+    "section": "Lightning talks",
+    "text": "Lightning talks\nUse this section for brief presentations and their resources.\n\n\n\n\n\n\nTipLightning talk titleSpeaker name\n\n\n\n\n\nAdd a short abstract if available, then add event resources when they are ready."
+  },
+  {
+    "objectID": "committee.html",
+    "href": "committee.html",
+    "title": "Committee",
+    "section": "",
+    "text": "Arranged alphabetically by first name\n\nCommittee member name (role)\n\nAdd a short biography or a description of the member’s conference role.\n\n\n\n\n\n\n\nNote\n\n\n\nCopy this pattern for each member. Add names, pronouns where people wish to share them, and links only with permission."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "rainbowR conference",
+    "section": "Welcome",
+    "text": "Welcome\nThe rainbowR virtual conference will bring together LGBTQ+ users of R, and their allies, to promote their work and foster connections amongst the community. The conference showcases the diversity of R users as well as the vast possibilities of what you can do in R. We will have an excellent lineup of LGBTQ+ speakers. In addition to talks, we’ll run virtual workshops led by experts, as well as virtual socials where conference participants can meet other R users to connect, share experiences, and unwind."
+  },
+  {
+    "objectID": "index.html#who-is-the-conference-for",
+    "href": "index.html#who-is-the-conference-for",
+    "title": "rainbowR conference",
+    "section": "Who is the conference for?",
+    "text": "Who is the conference for?\nThe conference is for anyone interested in R and/or analysing data to understand LGBTQ+ issues. The majority of speakers and workshop leaders are LGBTQ+, but you do not have to be LGBTQ+ to attend."
+  },
+  {
+    "objectID": "index.html#about-rainbowr",
+    "href": "index.html#about-rainbowr",
+    "title": "rainbowR conference",
+    "section": "About rainbowR",
+    "text": "About rainbowR\nrainbowR is a community whose mission is to connect, support and promote LGBTQ+ R users, and to spread awareness of LGBTQ+ issues through data-driven activism.\nFind out more at rainbowr.org."
+  },
+  {
+    "objectID": "index.html#important-dates-upcoming",
+    "href": "index.html#important-dates-upcoming",
+    "title": "rainbowR conference",
+    "section": "Important dates (upcoming)",
+    "text": "Important dates (upcoming)\n\nCall for proposals opens: To be confirmed\nProposal deadline: To be confirmed\nResponses to abstracts sent: To be confirmed\nRegistration opens: To be confirmed\nConference: June 8-9th, 2027"
+  },
+  {
+    "objectID": "index.html#sponsored-and-supported-by",
+    "href": "index.html#sponsored-and-supported-by",
+    "title": "rainbowR conference",
+    "section": "Sponsored and supported by",
+    "text": "Sponsored and supported by\nAre you interested in sponsoring or supporting rainbowR conference 2027? We’d love to hear from you if so! hello@rainbowr.org"
+  },
+  {
+    "objectID": "opening-closing.html#welcome-to-the-rainbowr-conference",
+    "href": "opening-closing.html#welcome-to-the-rainbowr-conference",
+    "title": "Welcome to the rainbowR conference",
+    "section": "Welcome to the rainbowR conference",
+    "text": "Welcome to the rainbowR conference\n[Conference date and event format]"
+  },
+  {
+    "objectID": "opening-closing.html#a-safe-and-welcoming-space-for-lgbtq-folks-and-allies",
+    "href": "opening-closing.html#a-safe-and-welcoming-space-for-lgbtq-folks-and-allies",
+    "title": "Welcome to the rainbowR conference",
+    "section": "A safe and welcoming space for LGBTQ+ folks and allies",
+    "text": "A safe and welcoming space for LGBTQ+ folks and allies\nrainbowr.org/code-of-conduct\n\n\n\n\n\n\nTip\n\n\nIf you experience or witness anything that makes you uncomfortable, contact the Code of Conduct team or use the reporting route listed on the conference Code of Conduct page."
+  },
+  {
+    "objectID": "opening-closing.html#why-a-rainbowr-conference",
+    "href": "opening-closing.html#why-a-rainbowr-conference",
+    "title": "Welcome to the rainbowR conference",
+    "section": "Why a rainbowR conference?",
+    "text": "Why a rainbowR conference?\n\nCentre LGBTQ+ members of the R community\nLearn about R\nUnderstand LGBTQ+ data\nMake connections\nHave fun"
+  },
+  {
+    "objectID": "opening-closing.html#schedule",
+    "href": "opening-closing.html#schedule",
+    "title": "Welcome to the rainbowR conference",
+    "section": "Schedule",
+    "text": "Schedule\nShare the event schedule, including the time zone, breaks, social events, and where attendees can find the current version online."
+  },
+  {
+    "objectID": "opening-closing.html#participation",
+    "href": "opening-closing.html#participation",
+    "title": "Welcome to the rainbowR conference",
+    "section": "Participation",
+    "text": "Participation\nExplain how to use the event platform, ask questions, take part in chat, and join the conference Discord. Include a clear recording policy."
+  },
+  {
+    "objectID": "opening-closing.html#about-rainbowr",
+    "href": "opening-closing.html#about-rainbowr",
+    "title": "Welcome to the rainbowR conference",
+    "section": "About rainbowR",
+    "text": "About rainbowR\nrainbowR connects, supports, and promotes LGBTQ+ R users, and spreads awareness of LGBTQ+ issues through data-driven activism.\nrainbowr.org"
+  },
+  {
+    "objectID": "opening-closing.html#thank-you",
+    "href": "opening-closing.html#thank-you",
+    "title": "Welcome to the rainbowR conference",
+    "section": "Thank you",
+    "text": "Thank you\nThank speakers, workshop and social leaders, organisers, sponsors, supporters, and everyone attending. Add the relevant names and logos once they are confirmed."
+  },
+  {
+    "objectID": "opening-closing.html#keep-in-touch",
+    "href": "opening-closing.html#keep-in-touch",
+    "title": "Welcome to the rainbowR conference",
+    "section": "Keep in touch",
+    "text": "Keep in touch\nAdd the post-conference next steps, resources, community links, and the date of the next event when these are available."
+  }
+]
