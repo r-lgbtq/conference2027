@@ -48,6 +48,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-a741489e085d508e864bdbec97f29b47.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/bootstrap/bootstrap-dark-61cfa3917e1bb6692cb77ac7c244202c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <link href="site_libs/bootstrap/bootstrap-a741489e085d508e864bdbec97f29b47.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/iconify-3.0.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -80,9 +81,11 @@ ul.task-list li input[type="checkbox"] {
 
 <meta property="og:title" content="Registrations – rainbowR conference">
 <meta property="og:description" content="">
-<meta property="og:image" content="images/rainbowR-square.png">
+<meta property="og:image" content="https://r-lgbtq.github.io/conference2027/images/rainbowR-square.png">
 <meta property="og:site_name" content="rainbowR conference">
 <meta property="og:image:alt" content="rainbowR conference logo">
+<meta property="og:image:height" content="600">
+<meta property="og:image:width" content="600">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light"><script id="quarto-html-before-body" type="application/javascript">
@@ -335,7 +338,23 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
 <p>Registration details will be published here when they are available.</p>
+</div>
+</div>
+<p>To stay informed, be sure to follow rainbowR on our social channels.</p>
+<p><a href="https://tech.lgbt/@rainbowR" class="btn icon-link"><iconify-icon role="img" inline="" icon="mdi:mastodon" aria-label="Icon mastodon from mdi Iconify.design set." title="Icon mastodon from mdi Iconify.design set."></iconify-icon> Mastodon</a> <a href="https://bsky.app/profile/rainbowr.org" class="btn icon-link"><iconify-icon role="img" inline="" icon="simple-icons:bluesky" aria-label="Icon bluesky from simple-icons Iconify.design set." title="Icon bluesky from simple-icons Iconify.design set."></iconify-icon> Bluesky</a> <a href="https://www.linkedin.com/company/rainbowr/" class="btn icon-link"><iconify-icon role="img" inline="" icon="mdi:linkedin" aria-label="Icon linkedin from mdi Iconify.design set." title="Icon linkedin from mdi Iconify.design set."></iconify-icon> LinkedIn</a></p>
+<p>If you are LGBTQ+ you can also join our community, which gets you an invitation to our Slack group and the opportunity to subscribe to our members newsletter.</p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSepXotTnoEDaIaflIWXCZNB7dptPqzQsCL6ha2VVHIqgAxXDA/viewform?usp=dialog" class="btn icon-link"><iconify-icon role="img" inline="" icon="bi:person-plus-fill" aria-label="Icon person-plus-fill from bi Iconify.design set." title="Icon person-plus-fill from bi Iconify.design set."></iconify-icon> Join rainbowR</a></p>
 <!--
 TEMPLATE
 ---
@@ -444,7 +463,7 @@ rainbowR 2026 is a free virtual event. There is no cost for registration.
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/r-lgbtq\.github\.io\/conference2027\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
