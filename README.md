@@ -1,4 +1,3 @@
-# rainbowR conference website template
+# rainbowR conference 2027
 
-This is a Quarto template for a future rainbowR conference website. 
-
+Website for the rainbowR 2027 conference
