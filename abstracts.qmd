@@ -7,7 +7,7 @@ format: html
 Details of the call for abstracts will be published here when they are available.
 :::
 
-o stay informed, be sure to follow rainbowR on our social channels.
+To stay informed, be sure to follow rainbowR on our social channels.
 
 [{{< iconify mdi:mastodon >}} Mastodon](https://tech.lgbt/@rainbowR){.btn .icon-link}
 [{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/rainbowr.org){.btn .icon-link}
